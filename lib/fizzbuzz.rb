@@ -5,7 +5,7 @@ def play(num)
 	return 'Fizz' if divisable_by_three?(num)
  	return 'Buzz' if divisable_by_five?(num)
  	num	
-# return puts num if divisable_by_three?(num) && !divisable_by_five?(num) && !divisable_by_fifteen?(num) 
+
 end
 
 def divisable_by_fifteen?(num)
