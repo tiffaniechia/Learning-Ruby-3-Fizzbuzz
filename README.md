@@ -4,6 +4,8 @@ The goal of this task was to practice writing Ruby with TDD.
 
 This task was created by [Evgeny Shadchnev](https://github.com/shadchnev)
 
+(Week 2)
+
 ###Question:
 Write a program that prints the numbers from 1 to 100.
 But for multiples of three print “Fizz” instead of the number and
@@ -36,6 +38,6 @@ end
 (1..100).each{|num|puts play(num)}
 ```
 
-##Stack:
+##Technologies Used
 - Ruby
 - TDD with RSpec
