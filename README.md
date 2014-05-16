@@ -2,7 +2,7 @@
 
 The goal of this task was to practice writing Ruby with TDD.
 
-This task was created by [Evgeny Shadchnev](https://github.com/shadchnev)
+This task was created by [Evgeny Shadchnev](https://github.com/shadchnev).
 
 (Week 2)
 
